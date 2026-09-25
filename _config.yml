@@ -1,6 +1,6 @@
 # Site settings
 title: Heights Analytics
-# description: [A short description of your site's purpose]
+description: We help organizations turn complex data into actionable insights through analysis, visualization, and strategic guidance.
 
 # Theme
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
