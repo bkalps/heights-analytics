@@ -1,6 +1,3 @@
-<h2>What we do</h2>
-
-We help organizations turn complex data into actionable insights through analysis, visualization, and strategic guidance.
 
 <h2>Let's Talk</h2>
 Email us at <a href="mailto:brian@heightsanalytics.com">brian@heightsanalytics.com</a>
