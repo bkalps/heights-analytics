@@ -1,4 +1,4 @@
-<h2>What do you actually do?</h2>
+<h2>What we do</h2>
 
 We help organizations turn complex data into actionable insights through analysis, visualization, and strategic guidance.
 
